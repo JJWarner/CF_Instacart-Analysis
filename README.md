@@ -1,2 +1,16 @@
-# CF_Instacart-Analysis
- Career Foundry Instacart analysis project show casing python scripts and visualizations 
+<img src="https://cdn.freebiesupply.com/logos/large/2x/instacart-1-logo-png-transparent.png" alt="Instacart Logo" width=200>
+
+## Instacart Analysis
+---
+Career Foundry project illistrating proficiency in Python utilizing diverse libraries for advanced data analysis and visualization.
+
+---
+<b>Data</b>: Data sourced from Instacart, encompassing CSV files such as Orders, Products, and Departments, forms the foundation of this project. Further details regarding data citations and considerations can be found in the project summary found [here](https://github.com/JJWarner/CF_Instacart-Analysis/blob/main/Sent%20to%20Client/Final_report.xlsx).
+
+<b>Results</b>: The analysis and profiling of data were executed to extract crucial demographic insights pertaining to the Instacart consumer base, ultimately informing strategic business recommendations. A comprehensive overview of these recommendations is available in the project summary [here](https://github.com/JJWarner/CF_Instacart-Analysis/blob/main/Sent%20to%20Client/Final_report.xlsx).
+
+<b>Limitations</b>:
+
+<b>Tools</b>: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Excel.
+
+<b>Skills</b>: Data cleaning, data analysis, descriptive statistics, story telling, presentation, data visualization.
