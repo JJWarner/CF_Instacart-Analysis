@@ -5,7 +5,7 @@
 Career Foundry project illistrating proficiency in Python utilizing diverse libraries for advanced data analysis and visualization.
 
 ---
-<b>Data</b>: Data sourced from Instacart, encompassing CSV files such as Orders, Products, and Departments, forms the foundation of this project. Further details regarding data citations and considerations can be found in the project summary found [here](https://github.com/JJWarner/CF_Instacart-Analysis/blob/main/Sent%20to%20Client/Final_report.xlsx).
+<b>Data</b>: Data sourced from Instacart, encompassing CSV files such as Orders, Products, and Departments, forms the foundation of this project. Comprehensive information pertaining to data citations, the intricacies of data wrangling and consolidation processes, as well as key business insights, is elaborated upon in the accompanying client brief found [here](https://github.com/JJWarner/CF_Instacart-Analysis/blob/main/Sent%20to%20Client/Final_report.xlsx).
 
 <b>Contents</b>: 
 <ul>
@@ -13,14 +13,14 @@ Career Foundry project illistrating proficiency in Python utilizing diverse libr
 To launch to notebook, open terminal and run the command: 
 <ul><li>Importing data: <pre> jupyter notebook importData.ipynb</pre></ul></li>
 
-<b>Sent to Client</b>: Contains the project brief and crosstabs.
+<b>Sent to Client</b>: Encompasses both the comprehensive project brief and Excel crosstabs.
 
-<b>Analysis</b>: Contains visuals created using Seaborn.
+<b>Analysis</b>: Incorporates visualizations crafted utilizing Seaborn.
 </ul>
 
-<b>Results</b>: The analysis and profiling of data were executed to extract crucial demographic insights pertaining to the Instacart consumer base, ultimately informing strategic business recommendations. A comprehensive overview of these recommendations is available in the project summary [here](https://github.com/JJWarner/CF_Instacart-Analysis/blob/main/Sent%20to%20Client/Final_report.xlsx).
+<b>Results</b>: The analysis and profiling of data were systematically conducted to extract pivotal demographic insights concerning the Instacart consumer base. These insights served as the cornerstone for formulating strategic business recommendations. A detailed exposition of these recommendations can be found in the project summary. [here](https://github.com/JJWarner/CF_Instacart-Analysis/blob/main/Sent%20to%20Client/Final_report.xlsx).
 
-<b>Limitations</b>:
+<b>Limitations</b>:The project's nature presents challenges in grasping the context around the dataset and its business insights. Additionally, limitations i n available computing power posed difficulties in conducting seamless visual analysis on the fully completed dataset. As a workaround, data visuals were crafted using subsets of data, as documented in the available Python scripts
 
 <b>Tools</b>: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Excel.
 
