@@ -25,4 +25,4 @@ To launch to notebook, open terminal and run the command:
 
 <b>Tools</b>: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Excel.
 
-<b>Skills</b>: Data cleaning, data analysis, descriptive statistics, story telling, presentation, data visualization.
+<b>Skills</b>: Data Wrangling and Merging, Derving Variables, Grouping Data, Aggregating Data, Reporting in Excel, Population Flows, Data Cleaning, Data Analysis, Descriptive Statistics, Story Telling, Presentation, Data Visualization.
