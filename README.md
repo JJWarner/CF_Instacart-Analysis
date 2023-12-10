@@ -23,6 +23,6 @@ To launch to notebook, open terminal and run the command:
 
 <b>Limitations</b>:The project's nature presents challenges in grasping the context around the dataset and its business insights. Additionally, limitations i n available computing power posed difficulties in conducting seamless visual analysis on the fully completed dataset. As a workaround, data visuals were crafted using subsets of data, as documented in the available Python scripts
 
-<b>Tools</b>: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib, Excel.
+<b>Tools</b>: Python, Pandas, Numpy, Seaborn, Matplotlib, Excel.
 
 <b>Skills</b>: Data Wrangling and Merging, Derving Variables, Grouping Data, Aggregating Data, Reporting in Excel, Population Flows, Data Cleaning, Data Analysis, Descriptive Statistics, Story Telling, Presentation, Data Visualization.
